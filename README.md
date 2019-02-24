@@ -16,8 +16,8 @@ $ sudo python setup.py install
 OR 
 Refer https://scapy.readthedocs.io/en/latest/installation.html#installing-scapy-v2-x 
 
-Now after this copy the scapy package from scapy-master to ../NetworkScanner
-$cp scapy ../NetworkScanner
+Now after this copy the scapy package from scapy-master to NetworkScanner
+$cp scapy ../scapy
 
 Helping me out with Exceptions Handling will be awesome .Thanks in advance :) 
 
