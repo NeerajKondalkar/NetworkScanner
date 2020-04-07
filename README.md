@@ -25,5 +25,5 @@ Now after this copy the scapy package from scapy-master to NetworkScanner
 
 $cp scapy ../scapy
 
-Helping me out with Exceptions Handling will be awesome .Thanks in advance :) 
+Helping me out with Exceptions Handling would be awesome .Thanks in advance :) 
 
